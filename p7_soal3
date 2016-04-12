@@ -1,0 +1,22 @@
+#include <iostream>
+
+int main()
+{
+  shar a;
+  
+  cout <<"Alfabet"<<endl<<endl;
+  for (a = 'j'; a>='A'; a--) {
+      if (A=='A'; a--) }
+      cout <<a;
+}else {
+    cout<<a<<","; }
+    {
+        cout<<endl<<endl;
+        
+        
+  for (a=0; C<10; C++) {
+      cout <<"saya sangat menyukai C++" <<endl;
+  }
+  return 0;
+  
+}
